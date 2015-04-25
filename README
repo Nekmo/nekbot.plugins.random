@@ -1,0 +1,15 @@
+NekBot Random Plugin
+####################
+Randomness plugin for Nekbot, a modular and multiprotocol bot written in Python.
+
+Usage: 
+
+    * !random -- Random number between 1 and 6.
+    * !random <number> -- Number between 1 and <number>
+    * !random <number A> <number B> -- Number between <number A> and <number B>
+    * !random <word 1> <word 2>[ <word 3>...] -- Random word.
+    * !veryrandom -- Random.org command    
+
+Please! You need NekBot for use this plugin. This plugin not works without NekBot.
+
+https://bitbucket.org/Nekmo/nekbot-mirai/
